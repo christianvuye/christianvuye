@@ -19,4 +19,5 @@ Current stack:
 <img src="https://img.shields.io/static/v1?logo=git&label&color=F05032&message=Git&logoColor=white&logoWidth=20">
 <img src="https://img.shields.io/static/v1?logo=github&label&color=181717&message=GitHub&logoColor=white&logoWidth=20">
 
+---
 
