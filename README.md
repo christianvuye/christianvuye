@@ -3,7 +3,7 @@
 
 ## Hi there! My name is Christian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-I am a **Python** developer who used to work in video games. Currently, I'm primarily focused on **web development in Django**.
+I am a **Python** developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who used to work in video games. Currently, I'm primarily focused on **web development in Django**.
 
 [<img src="https://img.shields.io/static/v1?logo=gmail&label&color=EA4335&message=christian.vuye&logoColor=white&logoWidth=20">](mailto:christian.vuye@gmail.com)
 [<img src="https://img.shields.io/static/v1?logo=linkedin&label&color=0A66C2&message=christianvuye&logoColor=white&logoWidth=20">](https://www.linkedin.com/in/christianvuye/)
