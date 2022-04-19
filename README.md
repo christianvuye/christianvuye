@@ -7,6 +7,7 @@ I am a **Python** developer who used to work in video games. Currently, my prima
 [<img src="https://img.shields.io/static/v1?logo=gmail&label&color=EA4335&message=christian.vuye&logoColor=white&logoWidth=20">](mailto:christian.vuye@gmail.com)
 [<img src="https://img.shields.io/static/v1?logo=linkedin&label&color=0A66C2&message=christianvuye&logoColor=white&logoWidth=20">](https://www.linkedin.com/in/christianvuye/)
 [![wakatime](https://wakatime.com/badge/github/christianvuye/portfoliopage.svg)](https://wakatime.com/badge/github/christianvuye/portfoliopage)
+<img src="https://komarev.com/ghpvc/?username=christianvuye&style=flat-square&color=blue" alt=""/>
 
 Current stack:
 <br>
