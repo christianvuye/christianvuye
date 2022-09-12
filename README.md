@@ -4,7 +4,7 @@
 ## Hi there! My name is Christian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ### :man_technologist: About Me:
-I am a **business and data analist** and **Python** developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who used to work in video games. Currently, I focus on **data analysis** in *SQL*. I want to explore **Data Science, Data Engineering, Machine Learning, and Artificial Intelligence** in the future.
+I am a **business and data analist** and **Python** developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who used to work in video games. Currently, I focus on **data analysis** in **SQL**. I want to explore **Data Science, Data Engineering, Machine Learning, and Artificial Intelligence** in the future.
 
 [<img src="https://img.shields.io/static/v1?logo=gmail&label&color=EA4335&message=christian.vuye&logoColor=white&logoWidth=20">](mailto:christian.vuye@gmail.com)
 [<img src="https://img.shields.io/static/v1?logo=linkedin&label&color=0A66C2&message=christianvuye&logoColor=white&logoWidth=20">](https://www.linkedin.com/in/christianvuye/)
