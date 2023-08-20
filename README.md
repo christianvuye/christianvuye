@@ -4,7 +4,11 @@
 ## Hi there! My name is Christian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ### :man_technologist: About Me:
-I am a **business and data analyst** and **Python** developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who used to work in video games. Currently, I focus on developing my **data analysis** skills in **SQL**. I want to further develop my skills in Python and SQL for **Data Analysis, Engineering and Science** in the future.
+👋 Hi, I’m @christianvuye  
+👀 Enthusiast in **software engineering**, with a focus on **Python**, Django, **AI**, and **Data Engineering**.  
+🌱 Business functional analyst at Honda; Data engineer at Elmos.  
+💼 Founder of [Brothers and Robots](http://www.brothersandrobots.com) and HumanAIx.  
+📫 Connect with me on [LinkedIn @christianvuye](https://www.linkedin.com/in/christianvuye/)
 
 [<img src="https://img.shields.io/static/v1?logo=gmail&label&color=EA4335&message=christian.vuye&logoColor=white&logoWidth=20">](mailto:christian.vuye@gmail.com)
 [<img src="https://img.shields.io/static/v1?logo=linkedin&label&color=0A66C2&message=christianvuye&logoColor=white&logoWidth=20">](https://www.linkedin.com/in/christianvuye/)
