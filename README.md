@@ -5,7 +5,7 @@
 
 ### :man_technologist: About Me:
 👋 Hi, I’m @christianvuye  
-👀 Enthusiast in **software engineering**, with a focus on **Python**, Django, **AI**, and **Data Engineering**.  
+👀 Enthusiast in **software engineering**, with a focus on **Python**, **Django**, **AI**, and **Data Engineering**.  
 🌱 Business functional analyst at Honda; Data engineer at Elmos.  
 💼 Founder of [Brothers and Robots](http://www.brothersandrobots.com) and HumanAIx.  
 📫 Connect with me on [LinkedIn @christianvuye](https://www.linkedin.com/in/christianvuye/)
