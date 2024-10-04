@@ -5,9 +5,7 @@
 
 ### :man_technologist: About Me:
 👋 Hi, I’m @christianvuye  
-👀 Enthusiast in **software engineering**, with a focus on **Python**, **Django**, **AI**, and **Data Engineering**.  
-🌱 Business functional analyst at Honda; Data engineer at Elmos.  
-💼 Founder of [Brothers and Robots](http://www.brothersandrobots.com) and HumanAIx.  
+👀 Software Developer, primarily using **Python** and **Django**.  
 📫 Connect with me on [LinkedIn @christianvuye](https://www.linkedin.com/in/christianvuye/)
 
 [<img src="https://img.shields.io/static/v1?logo=gmail&label&color=EA4335&message=christian.vuye&logoColor=white&logoWidth=20">](mailto:christian.vuye@gmail.com)
@@ -28,8 +26,3 @@
 </p>
 
 ---
-
-### :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=christianvuye&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianvuye&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
