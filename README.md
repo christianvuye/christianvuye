@@ -42,7 +42,7 @@ I'm a passionate generalist who believes the best solutions come from connecting
 <img src="https://img.shields.io/static/v1?logo=postgresql&label&color=4169E1&message=PostgreSQL&logoColor=white&logoWidth=20">
 </p>
 
-### **AI **
+### **AI**
 <p>
 <img src="https://img.shields.io/static/v1?logo=openai&label&color=412991&message=OpenAI&logoColor=white&logoWidth=20">
 <img src="https://img.shields.io/static/v1?logo=anthropic&label&color=1A1A1A&message=Anthropic&logoColor=white&logoWidth=20">
@@ -72,18 +72,6 @@ I'm a passionate generalist who believes the best solutions come from connecting
 🏎️ **Business Analyst:** Survived corporate life at Honda (learned a lot about processes)  
 🤖 **AI Early Adopter:** For me, AI has always been a way to unleash my creativity and build more and more innovative projects  
 🔬 **Perpetual Learner:** Always have 3-5 side projects exploring new technologies  
-
----
-
-## 📊 Some Numbers
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=christianvuye&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=christianvuye&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
