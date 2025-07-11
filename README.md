@@ -81,10 +81,7 @@ I'm a passionate generalist who believes the best solutions come from connecting
 
 [<img src="https://img.shields.io/static/v1?logo=gmail&label&color=EA4335&message=christian.vuye&logoColor=white&logoWidth=20">](mailto:otta.ladybug808@passmail.net)
 [<img src="https://img.shields.io/static/v1?logo=linkedin&label&color=0A66C2&message=christianvuye&logoColor=white&logoWidth=20">](https://www.linkedin.com/in/christianvuye/)
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=christianvuye&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
 
 ---
 
