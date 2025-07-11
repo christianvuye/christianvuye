@@ -9,7 +9,7 @@
 
 **From Business Analyst to Entrepreneur to AI Experimenter**
 
-I'm a passionate generalist software developer who believes the best solutions come from connecting different worlds. My journey has taken me from analyzing business processes at Honda 🏎️ to producing games 🎮, from (co-)founding mutltiple companies to diving deep into AI.
+I'm a curious generalist software developer who believes the best solutions come from connecting different worlds. My journey has taken me from analyzing business processes at Honda 🏎️ to producing games 🎮, from (co-)founding mutltiple companies to diving deep into AI.
 
 **Currently:** Figuring out my next steps in Barcelona (after living in 6 countries across 2 continents)  
 **Mission:** Bridging the gap between human problems and technological solutions  
