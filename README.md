@@ -68,18 +68,19 @@ i'm a curious generalist software developer who loves to dive into a variety of 
 
 ## 🌟 fun facts about me
 
-🗺️ **global citizen:** Lived in 6 countries, visited 4 continents
-🗣️ **polyglot:** Speak 2 languages fluently (English, Dutch), i need more practice in two more (Spanish, Polish)  
-🎮 **gaming background:** Former producer/project manager in the video game industry, i worked on fast&furious  
-🏎️ **functional analyst:** barely survived corporate life at Honda but learned a lot 
-🤖 **ai:** ai has been a way to unleash my creativity and build more and explore more  
-🔬 **perpetual learner:** Always have 3-5 side projects exploring new technologies, and another 3-5 courses and books that I have started but not finished 🫣
+- 🗺️ **global citizen:** lived in 6 countries, visited 4 continents
+- 🗣️ **polyglot:** speak 2 languages fluently (English, Dutch), i need more practice in two more (Spanish, Polish)  
+- 🎮 **gaming background:** former producer/project manager in the video game industry, i worked on fast&furious  
+- 🏎️ **functional analyst:** barely survived corporate life at Honda but learned a lot 
+- 🤖 **ai:** ai has been a way to unleash my creativity and build more and explore more  
+- 🔬 **perpetual learner:** always have 3-5 side projects exploring new technologies, and another 3-5 courses and books that I have started but not finished 🫣
+- 😼 **curiosity killed the cat:** hopefully it won't do that to me  
 
 ---
 
 ## 🤝 let's connect!
 
-**found something interesting?** I love connecting with fellow builders, entrepreneurs, and curious minds!
+**found something interesting?** i love connecting with fellow builders, engineers, artists, scientists, creatives, entrepreneurs, and curious minds!
 
 [<img src="https://img.shields.io/static/v1?logo=gmail&label&color=EA4335&message=otta.ladybug808&logoColor=white&logoWidth=20">](mailto:otta.ladybug808@passmail.net)
 [<img src="https://img.shields.io/static/v1?logo=linkedin&label&color=0A66C2&message=christianvuye&logoColor=white&logoWidth=20">](https://www.linkedin.com/in/christianvuye/)
