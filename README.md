@@ -7,33 +7,33 @@
 
 ## 🌍 The Journey So Far
 
-**From Business Analyst to Entrepreneur to AI Experimenter**
+**From Functional analyst to Founder to AI Agent Fleet Commander 🫡**
 
-I'm a curious generalist software developer who believes the best solutions come from connecting different worlds. My journey has taken me from analyzing business processes at Honda 🏎️ to producing games 🎮, from (co-)founding mutltiple companies to diving deep into AI.
+I'm a curious generalist software developer who loves to dive into a variety of different fields and technologies. My journey has taken me from translating business processes to automated software solutions at Honda 🏎️ to producing games 🎮, from (co-)founding mutltiple companies to orchestrating a fleet of AI Agents that help me create amazing software. 
 
 **Currently:** Figuring out my next steps in Barcelona (after living in 6 countries across 2 continents)  
-**Mission:** Bridging the gap between human problems and technological solutions  
+**Mission:** Lifelong learning, exploring and pushing the limits  
 **Philosophy:** "The important thing is not to stop questioning. Curiosity has its own reason for existence." 🧠
 
 ---
 
-## 🚀 What I Do
+## 🚀 What I've done
 
-**🏢 Co-Founder**
+**🏢 (Co-)Founder**
 - **Billify.be** - Co-Founder & Product Engineer
 - **Assista AI** - Co-Founder & Product Engineer
 - **Cyber Cowboys** - IT Consulting
 - **VMC Fitness** - Science-backed fitness for expats
 
-**💻 Technical Explorer**
+**💻 Technical explorer**
 - Backend with Python & Django 🐍
-- AI experimenter 
+- AI Agent Engineering Manager 👨🏻‍💼
 - Generalist who loves learning new technologies
-- Problem solver who builds for real challenges
+- Problem solver and experimenter
 
 ---
 
-## 🔧 My Digital Toolbox
+## 🔧 My digital toolbox
 
 ### **Core Powers**
 <p>
@@ -52,7 +52,7 @@ I'm a curious generalist software developer who believes the best solutions come
 
 </p>
 
-### **When I Need Them**
+### **When I need them**
 <p>
 <img src="https://img.shields.io/static/v1?logo=typescript&label&color=3178C6&message=TypeScript&logoColor=white&logoWidth=20">
 <img src="https://img.shields.io/static/v1?logo=react&label&color=61DAFB&message=React&logoColor=white&logoWidth=20">
@@ -64,29 +64,29 @@ I'm a curious generalist software developer who believes the best solutions come
 
 ---
 
-## 🌟 Fun Facts About Me
+## 🌟 Fun facts about me
 
-🗺️ **Global Citizen:** Lived in 6 countries, visited 6 continents (Antarctica, you're next!)  
+🗺️ **Global citizen:** Lived in 6 countries, visited 4 continents
 🗣️ **Polyglot:** Speak 4 languages (English, Dutch, Spanish, Polish)  
-🎮 **Gaming Background:** Former producer/project manager in the video game industry  
-🏎️ **Business Analyst:** Survived corporate life at Honda (learned a lot about processes)  
-🤖 **AI Early Adopter:** For me, AI has always been a way to unleash my creativity and build more and more innovative projects  
-🔬 **Perpetual Learner:** Always have 3-5 side projects exploring new technologies  
+🎮 **Gaming background:** Former producer/project manager in the video game industry  
+🏎️ **Functional Analyst:** (Barely) survived corporate life at Honda (learned a lot about processes)  
+🤖 **AI:** For me, AI has always been a way to unleash my creativity and build more and more innovative projects  
+🔬 **Perpetual learner:** Always have 3-5 side projects exploring new technologies, and another 3-5 courses and books that I have started but not finished 🫣
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's connect!
 
 **Found something interesting?** I love connecting with fellow builders, entrepreneurs, and curious minds!
 
-[<img src="https://img.shields.io/static/v1?logo=gmail&label&color=EA4335&message=christian.vuye&logoColor=white&logoWidth=20">](mailto:otta.ladybug808@passmail.net)
+[<img src="https://img.shields.io/static/v1?logo=gmail&label&color=EA4335&message=otta.ladybug808&logoColor=white&logoWidth=20">](mailto:otta.ladybug808@passmail.net)
 [<img src="https://img.shields.io/static/v1?logo=linkedin&label&color=0A66C2&message=christianvuye&logoColor=white&logoWidth=20">](https://www.linkedin.com/in/christianvuye/)
 <img src="https://komarev.com/ghpvc/?username=christianvuye&style=flat-square&color=blue" alt="Profile Views"/>
 
 ---
 
 <p align="center">
-<em>"In love with computer science, software engineering, and AI. Always building something that bridges human needs with technological possibilities."</em>
+<em>"In love with computer science, software engineering, and AI. Always chasing my curiosity and exploring."</em>
 </p>
 
 <p align="center">
