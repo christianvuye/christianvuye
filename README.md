@@ -11,9 +11,9 @@
 
 i'm a curious generalist software developer who loves to dive into a variety of different fields and technologies - my journey has taken me from automating business processes at Honda 🏎️ to producing games 🎮, from (co-)founding mutltiple companies to orchestrating a fleet of ai agents that help me create amazing software and other creative endevours. 
 
-**currently:** giguring out my next steps in barcelona (after my last startup crashed and burned 🔥🔥🔥🔥)  
+**currently:** figuring out my next steps in barcelona (after my last startup crashed and burned 🔥🔥🔥🔥)  
 **mission:** lifelong learning, exploring and pushing the limits  
-**philosophy:** "The important thing is not to stop questioning. Curiosity has its own reason for existence." 🧠
+**philosophy:** "the important thing is not to stop questioning. curiosity has its own reason for existence." 🧠 (some very smart man said this, not me)
 
 ---
 
