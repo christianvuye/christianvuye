@@ -9,11 +9,11 @@
 
 **from functional analyst to founder to ai agent fleet commander 🫡**
 
-i'm a curious generalist software developer who loves to dive into a variety of different fields and technologies - my journey has taken me from automating business processes at Honda 🏎️ to producing games 🎮, from (co-)founding mutltiple companies to orchestrating a fleet of ai agents that help me create amazing software and other creative endevours. 
+i'm a curious generalist software developer who loves to dive into a variety of different fields and technologies - my journey has taken me from automating business processes at Honda 🏎️ to producing games 🎮, from (co-)founding mutltiple companies to orchestrating a fleet of ai agents that help me create amazing software. 
 
-**currently:** figuring out my next steps in barcelona (after my last startup crashed and burned 🔥🔥🔥🔥)  
+**currently:** figuring out my next steps in barcelona (after my last startup *crashed and burned* 🔥🔥🔥🔥)  
 **mission:** lifelong learning, exploring and pushing the limits  
-**philosophy:** "the important thing is not to stop questioning. curiosity has its own reason for existence." 🧠 (some very smart man said this, not me)
+**philosophy:** *"the important thing is not to stop questioning - curiosity has its own reason for existence."* 🧠 (some very smart person said this, *not me*)
 
 ---
 
@@ -22,7 +22,7 @@ i'm a curious generalist software developer who loves to dive into a variety of 
 **🏢 (co-)founder**
 - **Billify.be** - co-founder & product engineer
 - **Assista AI** - co-Founder & product engineer
-- **Cyber Cowboys** - it consulting for the big boy serious corporations
+- **Cyber Cowboys** - consulting for the big boy serious corporations
 - **VMC Fitness** - evidence-based fitness for expats
 
 **💻 technical explorer**
@@ -60,7 +60,6 @@ i'm a curious generalist software developer who loves to dive into a variety of 
 <img src="https://img.shields.io/static/v1?logo=typescript&label&color=3178C6&message=TypeScript&logoColor=white&logoWidth=20">
 <img src="https://img.shields.io/static/v1?logo=react&label&color=61DAFB&message=React&logoColor=white&logoWidth=20">
 <img src="https://img.shields.io/static/v1?logo=fastapi&label&color=009688&message=FastAPI&logoColor=white&logoWidth=20">
-<img src="https://img.shields.io/static/v1?logo=flask&label&color=000000&message=Flask&logoColor=white&logoWidth=20">
 <img src="https://img.shields.io/static/v1?logo=microsoft-sql-server&label&color=CC2927&message=SQL%20Server&logoColor=white&logoWidth=20">
 </p>
 
@@ -69,7 +68,7 @@ i'm a curious generalist software developer who loves to dive into a variety of 
 ## 🌟 fun facts about me
 
 - 🗺️ **global citizen:** lived in 6 countries, visited 4 continents
-- 🗣️ **polyglot:** speak 2 languages fluently (English, Dutch), i need more practice in two more (Spanish, Polish)  
+- 🗣️ **polyglot:** speak 2 languages fluently (English, Dutch), i need more practice with two more (Spanish, Polish)  
 - 🎮 **gaming background:** former producer/project manager in the video game industry, i worked on fast&furious  
 - 🏎️ **functional analyst:** barely survived corporate life at Honda but learned a lot 
 - 🤖 **ai:** ai has been a way to unleash my creativity and build more and explore more  
@@ -80,7 +79,7 @@ i'm a curious generalist software developer who loves to dive into a variety of 
 
 ## 🤝 let's connect!
 
-**found something interesting?** i love connecting with fellow builders, engineers, artists, scientists, creatives, entrepreneurs, and curious minds!
+**found something interesting?** i love connecting with <strike>fellow builders, engineers, artists, scientists, creatives, entrepreneurs, and curious minds!</strike> *frankly, any being that has something interesting to share*
 
 [<img src="https://img.shields.io/static/v1?logo=gmail&label&color=EA4335&message=otta.ladybug808&logoColor=white&logoWidth=20">](mailto:otta.ladybug808@passmail.net)
 [<img src="https://img.shields.io/static/v1?logo=linkedin&label&color=0A66C2&message=christianvuye&logoColor=white&logoWidth=20">](https://www.linkedin.com/in/christianvuye/)
