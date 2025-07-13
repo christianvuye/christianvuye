@@ -7,7 +7,7 @@
 
 ## 🌍 the journey so far
 
-**from functional analyst to founder to ai agent fleet commander 🫡**
+**from functional analyst to founding engineer to ai agent fleet commander 🫡**
 
 i'm a curious generalist software developer who loves to dive into a variety of different fields and technologies - my journey has taken me from automating business processes at Honda 🏎️ to producing games 🎮, from (co-)founding mutltiple companies to orchestrating a fleet of ai agents that help me create amazing software. 
 
@@ -68,11 +68,11 @@ i'm a curious generalist software developer who loves to dive into a variety of 
 ## 🌟 fun facts about me
 
 - 🗺️ **global citizen:** lived in 6 countries, visited 4 continents
-- 🗣️ **polyglot:** speak 2 languages fluently (English, Dutch), i need more practice with two more (Spanish, Polish)  
+- 🗣️ **polyglot:** speak 2 languages fluently (English, Dutch), i need more practice with two others (Spanish, Polish)  
 - 🎮 **gaming background:** former producer/project manager in the video game industry, i worked on fast&furious  
 - 🏎️ **functional analyst:** barely survived corporate life at Honda but learned a lot 
-- 🤖 **ai:** ai has been a way to unleash my creativity and build more and explore more  
-- 🔬 **perpetual learner:** always have 3-5 side projects exploring new technologies, and another 3-5 courses and books that I have started but not finished 🫣
+- 🤖 **ai:** ai has been a way to unleash my creativity and build and explore more  
+- 🔬 **perpetual learner:** always have 3-5 side projects exploring new technologies, and another 3-5 courses and books that I've started but not finished 🫣
 - 😼 **curiosity killed the cat:** hopefully it won't do that to me  
 
 ---
