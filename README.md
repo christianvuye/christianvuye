@@ -5,9 +5,9 @@
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </p>
 
-## 🌍 The Journey So Far
+## 🌍 the journey so far
 
-**From Functional analyst to Founder to AI Agent Fleet Commander 🫡**
+**From functional analyst to founder to ai agent fleet commander 🫡**
 
 I'm a curious generalist software developer who loves to dive into a variety of different fields and technologies. My journey has taken me from translating business processes to automated software solutions at Honda 🏎️ to producing games 🎮, from (co-)founding mutltiple companies to orchestrating a fleet of AI Agents that help me create amazing software. 
 
@@ -17,7 +17,7 @@ I'm a curious generalist software developer who loves to dive into a variety of 
 
 ---
 
-## 🚀 What I've done
+## 🚀 some of the things I've done 
 
 **🏢 (Co-)Founder**
 - **Billify.be** - Co-Founder & Product Engineer
@@ -33,7 +33,7 @@ I'm a curious generalist software developer who loves to dive into a variety of 
 
 ---
 
-## 🔧 My digital toolbox
+## 🔧 my digital toolbox
 
 ### **Core Powers**
 <p>
@@ -64,7 +64,7 @@ I'm a curious generalist software developer who loves to dive into a variety of 
 
 ---
 
-## 🌟 Fun facts about me
+## 🌟 fun facts about me
 
 🗺️ **Global citizen:** Lived in 6 countries, visited 4 continents
 🗣️ **Polyglot:** Speak 4 languages (English, Dutch, Spanish, Polish)  
@@ -75,7 +75,7 @@ I'm a curious generalist software developer who loves to dive into a variety of 
 
 ---
 
-## 🤝 Let's connect!
+## 🤝 let's connect!
 
 **Found something interesting?** I love connecting with fellow builders, entrepreneurs, and curious minds!
 
@@ -90,5 +90,5 @@ I'm a curious generalist software developer who loves to dive into a variety of 
 </p>
 
 <p align="center">
-<em>Currently in Barcelona 🇪🇸 • Always open to interesting conversations 💬</em>
+<em>Always open to interesting conversations 💬</em>
 </p>
