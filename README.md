@@ -22,7 +22,7 @@ i'm a curious generalist software developer who loves to dive into a variety of 
 **🏢 (co-)founder**
 - **Billify.be** - co-founder & product engineer
 - **Assista AI** - co-Founder & product engineer
-- **Cyber Cowboys** - IT consulting for the big boy serious corporations
+- **Cyber Cowboys** - it consulting for the big boy serious corporations
 - **VMC Fitness** - evidence-based fitness for expats
 
 **💻 technical explorer**
