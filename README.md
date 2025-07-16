@@ -73,6 +73,7 @@ i'm a curious generalist software developer who loves to dive into a variety of 
 - 🏎️ **functional analyst:** barely survived corporate life at Honda but learned a lot 
 - 🤖 **ai:** ai has been a way to unleash my creativity and build and explore more  
 - 🔬 **perpetual learner:** always have 3-5 side projects exploring new technologies, and another 3-5 courses and books that I've started but not finished 🫣
+- ☕ **caffeine addict:** i should really go on a detox but the withdrawal would be brutal 💀
 - 😼 **curiosity killed the cat:** hopefully it won't do that to me  
 
 ---
